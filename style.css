@@ -23,6 +23,7 @@
 }
 
 .calculator__key {
+	
 	background: hsl(210, 25%, 95%);
 	border: none;
 	padding: 1rem 1.25rem;
